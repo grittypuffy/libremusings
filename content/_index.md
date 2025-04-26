@@ -25,14 +25,8 @@ recent_more_text = "more »"
 date_format = "%b %-d, %Y"
 +++
 
-Hey there! Keerthana here. I go by the alias `@grittypuffy` on the Internet (read [What's in a name?](/posts/whats-in-a-name)). I enjoy cranking code on high, advocating for free software, pondering over existence and other finer aspects of life with special interest towards music, art, history and photography. When not hooked up to my ThinkPad, you can find me reading books or spending time outdoors with family.
+Hey there! Keerthana here. I go by the alias [`@grittypuffy`](/posts/whats-in-a-name) on the Internet. I enjoy cranking code on high, advocating for free software, pondering over meaning of our existence and other finer aspects of life with special interest towards music, art, history and photography. When not hooked up to my ThinkPad, you can find me reading books or spending time outdoors with family.
 
-I express my views (or rants ;) Because why not?) on several topics that interest me, some of which includes but is not limited to:
-- Free software
-- Security and privacy
-- Tech communities
-- Accessibility
-- Books
-- Music
-- Languages
-- History
+I express my views (or rants) on several topics that interest me, thanks to my ability to get interested and hooked up to several unrelated topics at once.
+
+Views and rants that are expressed are purely my opinions as an individual and does not reflect on any of the organizations that I am involved with.
