@@ -25,6 +25,11 @@ outdate_alert_text_before = false
 
 This is a talk delivered at FOSS United Chennai's April 2025 Meetup at Full Creative, Tharamani.
 
+# Slides
+
+[**The event slides**](/files/20250426T103628--metadata-sanitization-for-privacy-ft-mat2__talk_foss_privacy.pdf) are available under Creative Commons Attribution-ShareAlike 4.0 International license
+
+
 # Talk agenda
 
 The talk was a brief introduction to importance of metadata sanitization for protecting privacy and covered usage of metadata anonymization toolkit (MAT2) for removal of metadata with alternative software for mobile and web interfaces.
@@ -36,7 +41,3 @@ The talk was a brief introduction to importance of metadata sanitization for pro
 5. Similar applications for mobile devices and web
 6. Limitations of metadata
 7. Q&A covering the challenges associated with removal of metadata in terms of quality and accessibility 
-
-# Slides
-
-[**The event slides**](/files/20250426T103628--metadata-sanitization-for-privacy-ft-mat2__talk_foss_privacy.pdf) are licensed under Creative Commons Attribution-ShareAlike 4.0 International

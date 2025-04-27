@@ -3,7 +3,7 @@ template = "post.html"
 page_template = "blog.html"
 title = "What's in a name?"
 description = "The not-so-long history behind my alias"
-date = "2025-04-24"
+date = "2023-01-18"
 lang = "en"
 
 [extra]

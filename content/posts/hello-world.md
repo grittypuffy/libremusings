@@ -3,7 +3,7 @@ page_template = "blog.html"
 template = "post.html"
 title = "Hello World"
 description = "Because a true developer starts everything with one"
-date = "2025-04-24"
+date = "2023-01-18"
 insert_anchor_links = "right"
 generate_feeds = true
 lang = "en"
@@ -60,4 +60,3 @@ Apart from that, I am a person with a lot of unrelated (or varied?) interests, b
 - Ancient Indian history and literature
 - Languages (it's fun to learn, mental exercise)
 - Medical systems
-
