@@ -40,4 +40,4 @@ The talk was a brief introduction to importance of metadata sanitization for pro
 4. Introduction to MAT2 for metadata sanitization including installation and usage
 5. Similar applications for mobile devices and web
 6. Limitations of metadata
-7. Q&A covering the challenges associated with removal of metadata in terms of quality and accessibility 
+7. Q & A covering the challenges associated with removal of metadata in terms of quality and accessibility 

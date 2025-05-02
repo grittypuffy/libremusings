@@ -96,7 +96,7 @@ Here's the configuration that I used:
 <photos-domain> {
     handle_path /api/* {
         reverse_proxy localhost:8080 {
-            header_up Host photos.libremusings.dev
+            header_up Host photos.example.com
         }
     }
     handle {

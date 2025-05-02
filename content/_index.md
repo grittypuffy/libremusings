@@ -16,6 +16,7 @@ links = [
     { name = "GitHub", icon = "github", url = "https://github.com/grittypuffy" },
     { name = "LinkedIn", icon = "linkedin", url = "https://linkedin.com/in/keerthana304" },
     { name = "Email", icon = "email", url = "mailto:grittypuffy@riseup.net" },
+    { name = "Links", icon = "important", url = "/links"}
 ]
 
 # Show a few recent posts in home page
