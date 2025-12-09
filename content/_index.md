@@ -4,7 +4,7 @@ template = 'home.html'
 [extra]
 lang = 'en'
 footer = false
-name = "libremusings"
+name = "Libre Musings"
 id = "libremusings"
 bio = "Pondering over free software, DEIA, my code and existence"
 avatar = "assets/images/avatar.webp"
