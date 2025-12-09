@@ -6,6 +6,7 @@ description = "My blogs and ramblings"
 sort_by = "date"
 insert_anchor_links = "right"
 generate_feeds = true
+# last_updated = "2025-12-09"
 
 [extra]
 lang = "en"

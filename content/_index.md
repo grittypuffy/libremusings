@@ -3,31 +3,42 @@ template = 'home.html'
 
 [extra]
 lang = 'en'
-
-# Show footer in home page
 footer = false
-
-# If you don't want to display id/bio/avatar, simply comment out that line
 name = "libremusings"
 id = "libremusings"
-bio = "Pondering over FLOSS, my code and existence"
-avatar = "assets/images/avatar.jpeg"
+bio = "Pondering over free software, DEIA, my code and existence"
+avatar = "assets/images/avatar.webp"
 links = [
-    { name = "GitHub", icon = "github", url = "https://github.com/grittypuffy" },
-    { name = "LinkedIn", icon = "linkedin", url = "https://linkedin.com/in/keerthana304" },
-    { name = "Email", icon = "email", url = "mailto:grittypuffy@riseup.net" },
-    { name = "Links", icon = "important", url = "/links"}
+    { name = "Check out my GitHub", icon = "github", url = "https://github.com/grittypuffy" },
+    { name = "Check out my LinkedIn", icon = "linkedin", url = "https://linkedin.com/in/keerthana304" },
+    { name = "Check out my Mastodon", icon = "mastodon", url = "https://mastodon.social/@grittypuffy" },
+    { name = "Check out my X", icon = "twitter", url = "https://x.com/@grittypuffy" },
+    { name = "Drop me an e-mail", icon = "email", url = "mailto:grittypuffy@riseup.net" },
 ]
-
-# Show a few recent posts in home page
 recent = true
 recent_max = 15
 recent_more_text = "more »"
 date_format = "%b %-d, %Y"
 +++
 
-Hey there! Keerthana here. I go by the alias [`@grittypuffy`](/posts/whats-in-a-name) on the Internet. I enjoy cranking code on high, advocating for free software, pondering over meaning of our existence and other finer aspects of life with special interest towards music, art, history and photography. When not hooked up to my ThinkPad, you can find me reading books or spending time outdoors with family.
+# Hey there!
 
-I express my views (or rants) on several topics that interest me, thanks to my ability to get interested and hooked up to several unrelated topics at once.
+Keerthana here. I go by the alias [`@grittypuffy` (read "What's in a name?")](/posts/whats-in-a-name) on the Internet.
 
-Views and rants that are expressed are purely my opinions as an individual and does not reflect on any of the organizations that I am involved with.
+I enjoy cranking code on high, advocating for free software and DEIA, writing assistive technologies and researching on accessibility, pondering over meaning of our existence and other finer aspects of life with special interest towards music, art, history and photography.
+
+When not hooked up to my ThinkPad, you can find me reading books, spending time with family or sleeping with my plush dolls.
+
+I express my views (and rants) on several topics of interest (thanks to my ability to get interested and hooked up to several unrelated topics)
+
+Views that are expressed are purely my opinions as an individual and does not reflect on any of the organizations that I am involved with.
+
+# Get in touch
+
+If you're interested in DEIA, free software, writing accessible software or want to discuss about random topics of interests mentioned above, feel free to [send a mail to grittypuffy@riseup.net](mailto:grittypuffy@riseup.net)
+
+If you are encountering accessibility issues with the website, [please send me an e-mail with subject titled "Accessibility - libremusings"](mailto:grittypuffy@riseup.net?subject=Accessibility%20-%20libremusings), I will definitely take it into consideration and fix it.
+
+# Note
+
+The website is WCAG 2.1 AA compliant, and I am working on adding themes and typographies for making it more accessible and WCAG 2.1 AAA compliant. If you have any suggestions, [please reach out via e-mail](mailto:grittypuffy@riseup.net).

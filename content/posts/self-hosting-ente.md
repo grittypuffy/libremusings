@@ -3,24 +3,21 @@ page_template = "blog.html"
 template = "post.html"
 title = "Self-hosting Ente for preserving those special moments"
 description = "No-gyan approach I used to self-host Ente"
+last_updated = "2025-04-23"
 date = "2025-04-23"
 insert_anchor_links = "right"
 generate_feeds = true
 lang = "en"
 tags = ["foss", "privacy", "selfhosting"]
+
 [extra]
-title = "Self-hosting Ente for preserving those special moments"
-date_format = "%Y-%m-%d"
-lang = "en"
-categorized = false # posts can be categorized
-back_to_top = true # show back-to-top button
-toc = true # show table-of-contents
-comment = false # enable comment
-copy = true # show copy button in code block
+toc = true
+comment = false
+copy = true
 outdate_alert = false
 outdate_alert_days = false
-reaction = false
 outdate_alert_text_before = false
+reaction = false
 +++
 
 # Why Ente?
@@ -151,7 +148,7 @@ While using a subdomain for MinIO, it is required to configure CORS which can be
 Ensure the service is running and assuming your MinIO container is named `my-ente-minio-1`, set an alias for your storage bucket. Do this for the bucket named `b2-eu-cen` since that is the one used as a primary (hot) storage.
 
 ``` sh
-docker exec -it my-ente-minio-1 sh -c 'mc alias set <storage-alias-name> <minio-endpoint> <minio-key> <minio-secret>
+docker exec -it my-ente-minio-1 sh -c 'mc alias set <storage-alias-name> <minio-endpoint> <minio-key> <minio-secret>'
 ```
 
 Now allow specific origins or all using wildcard (`*`) by this command:
@@ -202,7 +199,7 @@ Update your subscription by adding the admin's ID by checking for the ID using t
 
 ``` sh
 ente account list # Get ID. Add this to internal.admin in museum.yaml
-ente admin update-subscription -u grittypuffy@riseup.net --no-limit True -a grittypuffy@riseup.net
+ente admin update-subscription -u email@example.com --no-limit True -a email@example.com
 ```
 
 ## Disabling new registrations

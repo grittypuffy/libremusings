@@ -3,24 +3,21 @@ page_template = "blog.html"
 template = "post.html"
 title = "Metadata Sanitization for Privacy ft. MAT2"
 description = "A gentle introduction to importance of metadata sanitization and usage of MAT2"
+last_updated = "2025-04-26"
 date = "2025-04-26"
 insert_anchor_links = "right"
 generate_feeds = true
 lang = "en"
 tags = ["foss", "privacy", "fossuchennai", "talk"]
+
 [extra]
-title = "Metadata Sanitization for Privacy ft. MAT2"
-date_format = "%Y-%m-%d"
-lang = "en"
-categorized = false # posts can be categorized
-back_to_top = true # show back-to-top button
-toc = true # show table-of-contents
-comment = false # enable comment
-copy = true # show copy button in code block
+toc = true
+comment = false
+copy = true
 outdate_alert = false
 outdate_alert_days = false
-reaction = false
 outdate_alert_text_before = false
+reaction = false
 +++
 
 This is a talk delivered at FOSS United Chennai's April 2025 Meetup at Full Creative, Tharamani.

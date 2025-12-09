@@ -3,23 +3,20 @@ page_template = "blog.html"
 template = "post.html"
 title = "Hello World"
 description = "Because a true developer starts everything with one"
+last_updated = "2023-01-18"
 date = "2023-01-18"
 insert_anchor_links = "right"
 generate_feeds = true
 lang = "en"
+
 [extra]
-title = "Hello"
-date_format = "%Y-%m-%d"
-lang = "en"
-categorized = false # posts can be categorized
-back_to_top = true # show back-to-top button
-toc = true # show table-of-contents
-comment = false # enable comment
-copy = true # show copy button in code block
+toc = true
+comment = false
+copy = true
 outdate_alert = false
 outdate_alert_days = false
-reaction = false
 outdate_alert_text_before = false
+reaction = false
 +++
 
 Obligatory 'Hello world' to my fellow humans!
