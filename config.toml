@@ -41,6 +41,7 @@ anchors = "on"
 [extra]
 
 sections = [
+  { name = "About", path = "/about", is_external = false },
   { name = "Posts", path = "/posts", is_external = false },
 #  { name = "tags", path = "/tags", is_external = false },
   {name = "Photos", path = "https://album.libremusings.dev/?t=bByc5JU5#5Ja1ooNSSHywixy7ZsLgUfUJDQNi5ECvJT7ZgdXpxHr", is_external = true}
