@@ -23,15 +23,19 @@ date_format = "%b %-d, %Y"
 
 # Hey there!
 
-Keerthana here. I go by the alias [`@grittypuffy` (read "What's in a name?")](/posts/whats-in-a-name) on the Internet.
+Keerthana here. I go by the alias `@grittypuffy`. [For more information on my alias `grittypuffy`, (read "What's in a name?")](/posts/whats-in-a-name) on the Internet.
 
-I enjoy cranking code on high, advocating for free software and DEIA, writing assistive technologies and researching on accessibility, pondering over meaning of our existence and other finer aspects of life with special interest towards music, art, history and photography.
+I enjoy:
+- Cranking code on high
+- Advocating for free software and DEIA
+- Contributing to open-source projects for accessibility improvements
+- Researching on accessibility
+- Pondering over meaning of our existence, and
+- Other finer aspects of life, with special interest towards music, art, history and photography.
 
 When not hooked up to my ThinkPad, you can find me reading books, spending time with family or sleeping with my plush dolls.
 
-I express my views (and rants) on several topics of interest (thanks to my ability to get interested and hooked up to several unrelated topics)
-
-Views that are expressed are purely my opinions as an individual and does not reflect on any of the organizations that I am involved with.
+I express my views (and rants) on several topics of interest. Views expressed here are purely mine, independent of the organizations I am associated with.
 
 # Get in touch
 
@@ -41,4 +45,6 @@ If you are encountering accessibility issues with the website, [please send me a
 
 # Note
 
-The website is WCAG 2.1 AA compliant, and I am working on adding themes and typographies for making it more accessible and WCAG 2.1 AAA compliant. If you have any suggestions, [please reach out via e-mail](mailto:grittypuffy@riseup.net).
+The website is WCAG 2.1 AA compliant. I am working on WCAG 2.1 AAA compliance by adding themes and typography.
+
+If you have any suggestions, [please reach out via e-mail](mailto:grittypuffy@riseup.net).

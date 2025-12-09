@@ -41,9 +41,9 @@ anchors = "on"
 [extra]
 
 sections = [
-  { name = "posts", path = "/posts", is_external = false },
+  { name = "Posts", path = "/posts", is_external = false },
 #  { name = "tags", path = "/tags", is_external = false },
-  {name = "photos", path = "https://album.libremusings.dev/?t=bByc5JU5#5Ja1ooNSSHywixy7ZsLgUfUJDQNi5ECvJT7ZgdXpxHr", is_external = true}
+  {name = "Photos", path = "https://album.libremusings.dev/?t=bByc5JU5#5Ja1ooNSSHywixy7ZsLgUfUJDQNi5ECvJT7ZgdXpxHr", is_external = true}
 ]
 
 search = false
