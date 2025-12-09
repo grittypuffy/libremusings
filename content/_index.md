@@ -56,3 +56,7 @@ Feel free to [contact me via email](mailto:grittypuffy@riseup.net), I will be ha
 This website is WCAG 2.1 AA compliant. I am working on WCAG 2.1 AAA compliance by adding themes and typography.
 
 [If you have any suggestions on improving accessibility of this website, please reach out via e-mail](mailto:grittypuffy@riseup.net).
+
+---
+
+# Recent Posts
