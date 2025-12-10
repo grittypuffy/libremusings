@@ -25,7 +25,7 @@ date_format = "%b %-d, %Y"
 
 I am Keerthana (she/her), an open-source contributor to accessibility projects, for one among many things.
 
-I go by the alias `@grittypuffy` on the Internet. [Read the story behind my Internet alias 'grittypuffy'](/posts/whats-in-a-name)
+I go by the alias `@grittypuffy` on the Internet. [Read the story behind my Internet alias 'grittypuffy'](/blog/whats-in-a-name)
 
 I am involved with:
 - Cranking code on high
